@@ -1,0 +1,11 @@
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\bin\Debug\netcoreapp3.0\Fizz_buzz.exe
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\bin\Debug\netcoreapp3.0\Fizz_buzz.deps.json
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\bin\Debug\netcoreapp3.0\Fizz_buzz.runtimeconfig.json
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\bin\Debug\netcoreapp3.0\Fizz_buzz.runtimeconfig.dev.json
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\bin\Debug\netcoreapp3.0\Fizz_buzz.dll
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\bin\Debug\netcoreapp3.0\Fizz_buzz.pdb
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\obj\Debug\netcoreapp3.0\Fizz_buzz.csprojAssemblyReference.cache
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\obj\Debug\netcoreapp3.0\Fizz_buzz.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\obj\Debug\netcoreapp3.0\Fizz_buzz.AssemblyInfo.cs
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\obj\Debug\netcoreapp3.0\Fizz_buzz.dll
+C:\Users\GABRIEL\desktop\github\Fizz_buzz\obj\Debug\netcoreapp3.0\Fizz_buzz.pdb
